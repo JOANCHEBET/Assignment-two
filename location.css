@@ -1,0 +1,31 @@
+.part{
+    background-color: black;
+    color: white;
+    display: flex;
+flex-direction: row;
+padding-left: 2%;
+}
+textarea{
+    background-color:#708090;
+    color: white;
+    gap: 9rem;
+    border-radius: 4px;
+}
+.part2{
+    padding-left: 3%;
+    position: relative;
+     border: hidden;
+     padding-top: 1%;
+     
+    
+}
+.part1{
+    padding-top: 1%;
+}
+input{
+    background-color: black;
+    color: white;
+    border-radius: 4rem;
+    size: 5px;
+    border-color: grey;
+}
